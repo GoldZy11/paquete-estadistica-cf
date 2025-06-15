@@ -1,5 +1,5 @@
 {
-  "name": "paquete-estadistica-cf",
+  "name": "@GoldZy11/paquete-estadistica-cf",
   "version": "1.0.0",
   "description": "Packete de prueba para estadistica en Node.js, curso Codigo Facilito",
   "main": "index.js",
